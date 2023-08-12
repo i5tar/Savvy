@@ -22,8 +22,8 @@ Savvy is a personal budgeting tool designed to help you track your income and ex
 5. **Resetting Budget**: Click "Reset Budget" to clear all transactions and reset your balance.
 
 ## Dependencies
-- **Tkinter**
-- **Matplotlib**
+- Tkinter
+- Matplotlib
 
 ## License
 - This project is open source and available under the MIT License.
