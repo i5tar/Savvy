@@ -1,6 +1,0 @@
-income,No Category,5000
-expense,Food,300
-expense,Transport,100
-expense,Entertainment,200
-income,Salary,3000
-expense,Other,50
